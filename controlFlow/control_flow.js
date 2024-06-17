@@ -50,3 +50,23 @@ let isAuthenticated = true;
 let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
 
 console.log("Authentication Status:", authenticationStatus);
+
+
+let TypeofUser = "Employee";
+
+switch(TypeofUser){
+    case "Employee":
+        console.log("You are authorized to dietary services");
+        break;
+    case "Enrolled Member":
+        console.log("You are authorize to have access to Dietary services and one on one interaction with dietician");
+        break;
+    case "Subscriber":
+        console.log("You are authorized to have partial access");
+        break;
+    case "Non-subcriber":
+        console.log("You need to be at least subscriber");
+        break;
+    default:
+        console.log("Type of user unknown");
+}
