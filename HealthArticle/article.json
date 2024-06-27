@@ -1,0 +1,30 @@
+{
+    "articles": [
+      {
+        "title": "Global Economic Outlook",
+        "description": "An overview of the current global economic trends and forecasts.",
+        "content": "The global economy is showing signs of recovery with significant growth in certain sectors. Analysts predict continued improvement over the next few quarters..."
+      },
+      {
+        "title": "Advancements in Renewable Energy",
+        "description": "Latest developments in the field of renewable energy sources.",
+        "content": "Renewable energy technologies are advancing rapidly, with new breakthroughs in solar and wind power efficiency. These advancements are expected to..."
+      },
+      {
+        "title": "Healthcare Innovations in 2023",
+        "description": "Innovative healthcare technologies and practices emerging this year.",
+        "content": "The healthcare industry is witnessing a surge in innovations, from telemedicine to advanced diagnostic tools. These technologies are aimed at improving patient outcomes and..."
+      },
+      {
+        "title": "The Future of Artificial Intelligence",
+        "description": "Exploring the potential and challenges of AI in the coming decade.",
+        "content": "Artificial Intelligence is poised to revolutionize various industries, offering new capabilities and efficiencies. However, there are significant challenges that need to be addressed, such as..."
+      },
+      {
+        "title": "Climate Change and Its Impact on Agriculture",
+        "description": "How climate change is affecting agricultural practices worldwide.",
+        "content": "Climate change is having a profound impact on agriculture, with changing weather patterns affecting crop yields and farming practices. Farmers are adapting to these changes by..."
+      }
+    ]
+  }
+  
